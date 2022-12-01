@@ -1,0 +1,6 @@
+*pyc
+*~
+/build
+__pycache__
+/todo.txt
+/template
